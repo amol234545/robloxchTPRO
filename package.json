@@ -1,0 +1,29 @@
+{
+  "name": "robloxchatproxy",
+  "version": "1.0.0",
+  "description": "a chat proxy for roblox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "dotenv": "^16.0.2",
+    "dotenv-expand": "^9.0.0",
+    "express": "^4.18.1",
+    "fastify": "^4.5.3",
+    "got": "^12.4.1",
+    "noblox.js": "^4.13.1",
+    "node-fetch": "^3.2.6",
+    "node-fetch-url": "^0.1.2",
+    "wait": "^0.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  }
+}
